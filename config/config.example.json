@@ -1,0 +1,6 @@
+{
+    "instance_url": "https://your-instance.service-now.com",
+    "username": "your-username",
+    "password": "your-password",
+    "slack_webhook": "https://hooks.slack.com/services/XXXX/XXXX/XXXX"
+}
